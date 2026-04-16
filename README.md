@@ -12,7 +12,7 @@ I am currently building my expertise in data science and machine learning, with 
 
 ## 🧠 Skills & Tools
 
-** Data Analysis**
+**Data Analysis**
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
 * SQL *(currently learning)*
