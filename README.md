@@ -46,11 +46,11 @@ I am currently building my expertise in data science and machine learning, with 
 
 ### 🔹 Classification Tree Model
 
-* Built a classification model using decision trees
-* Performed data preprocessing, model training, and evaluation
-* Analyzed model performance and prediction accuracy
+* Built a classification model using decision trees to predict if a movie would win an Oscar award
+## 🔹Linear Regression Model
+* Built a Linear Regression model which predicted house prices in USA
 
-📌 *More projects coming soon as I continue building my portfolio*
+📌 *More projects coming soon as I continue learning*
 
 ---
 
@@ -65,7 +65,6 @@ I am currently building my expertise in data science and machine learning, with 
 
 * Improving machine learning model performance and evaluation
 * Learning SQL and Power BI for data analysis and visualization
-* Building end-to-end data science projects
 * Applying data science to finance and banking problems
 
 ---
