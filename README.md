@@ -24,6 +24,9 @@ I am currently building my expertise in data science and machine learning, with 
 * Linear Discriminant Analysis (LDA)
 * K-Nearest Neighbours (KNN)
 * Decision Trees (Classification & Regression)
+* Support Vector Classifiers
+* Support Vector Regression
+
 
 **Data Visualization**
 
