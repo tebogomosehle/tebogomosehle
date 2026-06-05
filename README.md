@@ -14,7 +14,7 @@ I am currently building my expertise in data science and machine learning, with 
 
 **Data Analysis**
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Python (Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn)
 * SQL *(currently learning)*
 
 **Machine Learning**
@@ -26,6 +26,8 @@ I am currently building my expertise in data science and machine learning, with 
 * Decision Trees (Classification & Regression)
 * Support Vector Classifiers
 * Support Vector Regression
+* Time Series (ARIMA)
+* Time Series (SARIMA)
 
 
 **Data Visualization**
@@ -47,11 +49,14 @@ I am currently building my expertise in data science and machine learning, with 
 
 ## 📂 Projects
 
+### 🔹 Multinomial Lgistic Regression
+* Used primary data I collected during my final year to build a multinomial logistic regression model which analysed household coping strategy choices in response to fruit and vegetable price fluctuation in Mankweng, Polokwne Local Municipality.
+### 🔹 Loan Defaulting Classification Tree
+* Built a decision tree model which predicted if a customer would default on a loan
 ### 🔹 Classification Tree Model
-
 * Built a classification model using decision trees to predict if a movie would win an Oscar award
 ## 🔹Linear Regression Model
-* Built a Linear Regression model which predicted house prices in USA
+* Built a Linear Regression model using which predicted house prices in USA
 
 📌 *More projects coming soon as I continue learning*
 
@@ -60,15 +65,13 @@ I am currently building my expertise in data science and machine learning, with 
 ## 🎓 Certifications
 
 * Python for Data Analysis & Data Science (Udemy)
-* Machine Learning with Python(In Progress)
+* Machine Learning with Python (Udemy)
 
 ---
 
 ## 📈 Current Focus
-
-* Improving machine learning model performance and evaluation
-* Learning SQL and Power BI for data analysis and visualization
-* Applying data science to finance and banking problems
+* Learning SQL and Power BI 
+* Applying data science to economics, finance and banking problems
 
 ---
 
@@ -83,4 +86,5 @@ I am currently building my expertise in data science and machine learning, with 
 
 ## 📫 Connect with Me
 
+* Linkedin: malito = 'www.linkedin.com/in/tebogo-mosehle-1806b319b'
 * Email: tebogomosehle10@gmail.com
