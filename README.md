@@ -86,5 +86,5 @@ I am currently building my expertise in data science and machine learning, with 
 
 ## 📫 Connect with Me
 
-* Linkedin: malito = 'www.linkedin.com/in/tebogo-mosehle-1806b319b'
+* Linkedin: www.linkedin.com/in/tebogo-mosehle-1806b319b
 * Email: tebogomosehle10@gmail.com
