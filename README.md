@@ -58,7 +58,7 @@ I am currently building my expertise in data science and machine learning, with 
 ## 🔹Linear Regression Model
 * Built a Linear Regression model using which predicted house prices in USA
 ## 🔹ARIMA Model
-Used CPI data, and other macroeconomic indicators to forecast inflation
+* Used CPI data, and other macroeconomic indicators to forecast inflation
 
 
 📌 *More projects coming soon as I continue learning*
