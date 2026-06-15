@@ -65,8 +65,16 @@ I am currently building my expertise in data science and machine learning, with 
 
 ---
 
-## 🎓 Certifications
+## 🎓 Education
+* Bachelor of Science in Agriculture in Agricultural Economics
+* Relevant Coursework: 
+* Econometrics
+* Microeconomic Theory
+* Macroeconomic Theory
+* Mathematical Economics
+* Research Project
 
+## 🎓 Certifications
 * Python for Data Analysis & Data Science (Udemy)
 * Machine Learning with Python (Udemy)
 
