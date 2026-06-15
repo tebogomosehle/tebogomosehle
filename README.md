@@ -67,6 +67,7 @@ I am currently building my expertise in data science and machine learning, with 
 
 ## 🎓 Education
 * Bachelor of Science in Agriculture in Agricultural Economics
+* University of Limpopo (2021-2025)
 * Relevant Coursework: 
 * Econometrics
 * Microeconomic Theory
