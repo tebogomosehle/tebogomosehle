@@ -35,11 +35,6 @@ I am currently building my expertise in data science and machine learning, with 
 * Power BI *(currently learning)*
 * Matplotlib & Seaborn
 
-**Statistical Tools**
-
-* Stata
-* SPSS
-
 
 **Other Tools**
 
